@@ -1,0 +1,12 @@
+/* 
+    Document   : admin
+    Created on : Aug 26, 2010, 10:30:54 PM
+    Author     : Ovais Tariq
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#wpcontent div.pp-widget-form select.pp-category {
+	width: 182px;
+	height: auto;
+}
